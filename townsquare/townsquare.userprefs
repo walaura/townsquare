@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TalkyDispatcher.cs">
+    <Files>
+      <File FileName="Assets/npc.cs" Line="10" Column="19" />
+      <File FileName="Assets/readOnTouch.cs" Line="19" Column="16" />
+      <File FileName="Assets/TalkyController.cs" Line="7" Column="26" />
+      <File FileName="Assets/TalkyDispatcher.cs" Line="22" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="townsquare" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Twitter" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="TalkyDispatcher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="townsquare" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/laura_gonzalez/Repos/townsquare/townsquare/Assets/TalkyDispatcher.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
